@@ -5,7 +5,7 @@ CONTRIBUTORS = {
 BLURB = "Allows server owners to easily set the bot to reply to specific phrases."
 
 COMMANDS = {}
-DATA_SERVER = {
+DATA_GUILD = {
     "normal": {},
     "tts": {}
 }
